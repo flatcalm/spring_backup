@@ -6,10 +6,10 @@
                 <div class="col-md-7 col-sm-12">
                     <div class="copyright">
                         <a href="">
-                            <img width="20" src="${pageContext.request.contextPath }/img/logo.svg" alt="Brand">
+                            <img width="20" src="${pageContext.request.contextPath}/resources/img/logo.png" alt="logo">
                         </a>
                         WGC | 대표자 : 박언규 | E-MAIL : a_abnc&#64;naver.com<br>
-                        사업자번호 : 123-56-78910 | 개인정보보호책임자 : 권진현<br>
+                        사업자번호 : 123-56-78910 | 개인정보보호책임자 : 김나영<br>
                         TEL : 031-151-1517 | 주소 : 서울 마포구 백범로 23, 신수동 63-14
                         <address>&copy;We Go Camping. ALL RIGHTS RESERVED</address>
                     </div>

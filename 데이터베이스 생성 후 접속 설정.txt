@@ -1,0 +1,3 @@
+MySQL Connections -> + 모양 아이콘 -> Connection Name - Camping -> 
+Username - camping -> Default Schema - WeGoCamping -> Test Connection -> 
+password - camp -> 접속 성공 확인 후 OK -> OK

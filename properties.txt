@@ -1,0 +1,9 @@
+src/main/resources - 
+log4jdbc.log4j2.properties
+mybatis-config.xml
+
+
+
+src/main/resources - 
+properties 폴더 생성 - 
+Hikari.properties
