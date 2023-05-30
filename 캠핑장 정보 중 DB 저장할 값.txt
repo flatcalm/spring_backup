@@ -1,0 +1,16 @@
+홈페이지 소개(표현) 및 기본 정보용
+contentId // 캠핑장 키값 (빼버리고 AUTO_INCREMENT 처리할지 고민)
+facltNm // 캠핑장 이름
+lineIntro // 한줄 소개
+intro // 자세한 소개
+firstImageUrl // 썸네일용 이미지
+tel // 연락처
+induty // 캠핑장 테마
+addr1 // 주소
+homepage // 홈페이지 주소
+
+날씨 정보 출력용 값
+mapX // X 좌표
+mapY // Y 좌표
+
+https://velog.io/@yulhee741/MySQL-csv-json%ED%8C%8C%EC%9D%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%88%EB%9F%AC%EC%99%80-MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0
