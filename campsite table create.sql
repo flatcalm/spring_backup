@@ -8,8 +8,8 @@ CREATE TABLE campsite(
     induty VARCHAR(200),
     addr VARCHAR(500),
     homepage VARCHAR(200),
-    map_x INT,
-    map_y INT
+    map_x DECIMAL(10, 7),
+    map_y DECIMAL(10, 7)
 );
 
 SELECT * FROM campsite;
